@@ -1,0 +1,4 @@
+device,sessions,product_views,add_to_carts,checkouts,purchases,view_rate_pct,cart_rate_pct,checkout_rate_pct,checkout_completion_pct,session_conversion_pct
+Mobile,43358,25408,6398,3343,1376,58.6,25.2,52.3,41.2,3.17
+Desktop,21775,14141,4100,2342,1737,64.9,29.0,57.1,74.2,7.98
+Tablet,4867,3042,783,422,270,62.5,25.7,53.9,64.0,5.55

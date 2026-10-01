@@ -1,0 +1,6 @@
+table_name,row_count
+customers,12000
+products,200
+orders,24836
+order_items,49707
+web_events,134429

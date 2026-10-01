@@ -1,0 +1,4 @@
+status,orders,pct_of_orders,order_value
+Completed,21048,86.6,4497138.0
+Returned,2267,9.3,508270.0
+Cancelled,981,4.0,200498.0

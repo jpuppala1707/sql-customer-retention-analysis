@@ -1,0 +1,5 @@
+check_name,issues
+orders without a valid customer,0
+orders without any line items,0
+order lines with non-positive quantity or price,0
+orders dated before customer first_seen_date,0

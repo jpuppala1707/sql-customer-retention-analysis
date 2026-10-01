@@ -1,0 +1,201 @@
+product_id,product_name,category,list_price,unit_cost
+1,Electronics-001,Electronics,141.45000000000002,110.26
+2,Electronics-002,Electronics,300.8,222.78
+3,Electronics-003,Electronics,214.75,151.15
+4,Electronics-004,Electronics,46.67,34.16
+5,Electronics-005,Electronics,57.45,46.53
+6,Electronics-006,Electronics,281.7,206.57
+7,Electronics-007,Electronics,25.36,19.26
+8,Electronics-008,Electronics,243.66,171.19
+9,Electronics-009,Electronics,227.87,189.47
+10,Electronics-010,Electronics,91.47999999999999,66.42
+11,Electronics-011,Electronics,57.910000000000004,43.07
+12,Electronics-012,Electronics,54.09,45.4
+13,Electronics-013,Electronics,50.67,39.6
+14,Electronics-014,Electronics,85.86,71.62
+15,Electronics-015,Electronics,101.25999999999999,81.19
+16,Electronics-016,Electronics,115.97999999999999,94.84
+17,Electronics-017,Electronics,395.03000000000003,282.95
+18,Electronics-018,Electronics,225.10000000000002,177.02
+19,Electronics-019,Electronics,140.31,109.61
+20,Electronics-020,Electronics,387.93,325.06
+21,Electronics-021,Electronics,45.4,34.43
+22,Electronics-022,Electronics,38.97,30.99
+23,Electronics-023,Electronics,136.61,97.16
+24,Electronics-024,Electronics,28.229999999999997,21.52
+25,Electronics-025,Electronics,27.59,20.76
+26,Electronics-026,Electronics,104.19999999999999,75.59
+27,Electronics-027,Electronics,91.05,75.51
+28,Electronics-028,Electronics,317.91,241.99
+29,Electronics-029,Electronics,143.08,122.29
+30,Electronics-030,Electronics,103.97999999999999,82.56
+31,Home-031,Home & Kitchen,61.760000000000005,41.87
+32,Home-032,Home & Kitchen,67.52,43.18
+33,Home-033,Home & Kitchen,74.94,45.8
+34,Home-034,Home & Kitchen,18.04,11.24
+35,Home-035,Home & Kitchen,39.53,26.34
+36,Home-036,Home & Kitchen,22.95,13.79
+37,Home-037,Home & Kitchen,35.68,22.52
+38,Home-038,Home & Kitchen,15.58,10.01
+39,Home-039,Home & Kitchen,164.97,99.32
+40,Home-040,Home & Kitchen,21.47,13.36
+41,Home-041,Home & Kitchen,73.99,48.31
+42,Home-042,Home & Kitchen,27.06,18.15
+43,Home-043,Home & Kitchen,127.97999999999999,73.81
+44,Home-044,Home & Kitchen,72.1,48.58
+45,Home-045,Home & Kitchen,17.13,9.57
+46,Home-046,Home & Kitchen,118.30999999999999,77.06
+47,Home-047,Home & Kitchen,155.06,102.11
+48,Home-048,Home & Kitchen,138.75,79.78
+49,Home-049,Home & Kitchen,56.120000000000005,34.23
+50,Home-050,Home & Kitchen,17.779999999999998,11.72
+51,Home-051,Home & Kitchen,20.2,11.31
+52,Home-052,Home & Kitchen,148.07000000000002,94.16
+53,Home-053,Home & Kitchen,53.54,35.14
+54,Home-054,Home & Kitchen,19.56,12.16
+55,Home-055,Home & Kitchen,131.49,85.21
+56,Home-056,Home & Kitchen,68.17999999999999,39.96
+57,Home-057,Home & Kitchen,56.120000000000005,32.7
+58,Home-058,Home & Kitchen,33.24,20.04
+59,Home-059,Home & Kitchen,36.510000000000005,21.18
+60,Home-060,Home & Kitchen,22.939999999999998,13.78
+61,Home-061,Home & Kitchen,13.290000000000001,8.98
+62,Home-062,Home & Kitchen,128.72,80.98
+63,Home-063,Home & Kitchen,42.580000000000005,25.56
+64,Home-064,Home & Kitchen,52.86,31.28
+65,Home-065,Home & Kitchen,28.7,19.4
+66,Home-066,Home & Kitchen,91.78,56.27
+67,Home-067,Home & Kitchen,12.84,8.73
+68,Home-068,Home & Kitchen,32.870000000000005,20.44
+69,Home-069,Home & Kitchen,13.02,8.11
+70,Home-070,Home & Kitchen,16.729999999999997,11.2
+71,Apparel-071,Apparel,70.28,28.76
+72,Apparel-072,Apparel,50.160000000000004,20.45
+73,Apparel-073,Apparel,36.410000000000004,14.81
+74,Apparel-074,Apparel,93.14,39.84
+75,Apparel-075,Apparel,35.300000000000004,15.09
+76,Apparel-076,Apparel,102.17999999999999,43.11
+77,Apparel-077,Apparel,17.29,7.88
+78,Apparel-078,Apparel,36.67,14.98
+79,Apparel-079,Apparel,44.17,20.24
+80,Apparel-080,Apparel,108.35,45.5
+81,Apparel-081,Apparel,25.27,11.78
+82,Apparel-082,Apparel,80.16,32.62
+83,Apparel-083,Apparel,61.230000000000004,26.51
+84,Apparel-084,Apparel,66.61999999999999,32.61
+85,Apparel-085,Apparel,55.54,25.18
+86,Apparel-086,Apparel,113.1,54.07
+87,Apparel-087,Apparel,29.95,13.9
+88,Apparel-088,Apparel,34.330000000000005,15.79
+89,Apparel-089,Apparel,22.86,9.65
+90,Apparel-090,Apparel,16.66,7.61
+91,Apparel-091,Apparel,23.34,9.54
+92,Apparel-092,Apparel,100.64999999999999,48.03
+93,Apparel-093,Apparel,86.05999999999999,42.29
+94,Apparel-094,Apparel,18.939999999999998,9.13
+95,Apparel-095,Apparel,52.64,21.56
+96,Apparel-096,Apparel,40.620000000000005,17.69
+97,Apparel-097,Apparel,51.65,22.4
+98,Apparel-098,Apparel,59.07,24.52
+99,Apparel-099,Apparel,28.369999999999997,13.09
+100,Apparel-100,Apparel,110.72,52.79
+101,Apparel-101,Apparel,39.510000000000005,17.12
+102,Apparel-102,Apparel,55.370000000000005,26.72
+103,Apparel-103,Apparel,56.190000000000005,26.79
+104,Apparel-104,Apparel,21.979999999999997,9.16
+105,Apparel-105,Apparel,17.049999999999997,8.08
+106,Apparel-106,Apparel,35.29,17.1
+107,Apparel-107,Apparel,73.44999999999999,31.05
+108,Apparel-108,Apparel,81.71,37.31
+109,Apparel-109,Apparel,68.42999999999999,31.65
+110,Apparel-110,Apparel,18.97,8.72
+111,Apparel-111,Apparel,100.21,41.45
+112,Apparel-112,Apparel,79.5,36.93
+113,Apparel-113,Apparel,93.03999999999999,42.97
+114,Apparel-114,Apparel,44.52,21.33
+115,Apparel-115,Apparel,100.67999999999999,48.06
+116,Beauty-116,Beauty,15.46,5.66
+117,Beauty-117,Beauty,34.260000000000005,14.43
+118,Beauty-118,Beauty,45.910000000000004,17.01
+119,Beauty-119,Beauty,48.35,17.92
+120,Beauty-120,Beauty,11.07,4.1
+121,Beauty-121,Beauty,8.43,3.09
+122,Beauty-122,Beauty,29.68,12.84
+123,Beauty-123,Beauty,12.32,4.7
+124,Beauty-124,Beauty,24.9,9.57
+125,Beauty-125,Beauty,53.67,22.9
+126,Beauty-126,Beauty,17.169999999999998,7.03
+127,Beauty-127,Beauty,13.3,4.99
+128,Beauty-128,Beauty,20.06,7.92
+129,Beauty-129,Beauty,30.069999999999997,12.95
+130,Beauty-130,Beauty,9.8,3.82
+131,Beauty-131,Beauty,17.209999999999997,7.17
+132,Beauty-132,Beauty,10.46,3.85
+133,Beauty-133,Beauty,30.38,12.7
+134,Beauty-134,Beauty,42.64,18.0
+135,Beauty-135,Beauty,17.08,7.28
+136,Beauty-136,Beauty,16.91,7.0
+137,Beauty-137,Beauty,23.709999999999997,9.24
+138,Beauty-138,Beauty,12.33,4.5
+139,Beauty-139,Beauty,13.16,5.28
+140,Beauty-140,Beauty,15.540000000000001,6.54
+141,Beauty-141,Beauty,20.099999999999998,7.54
+142,Beauty-142,Beauty,9.42,3.59
+143,Beauty-143,Beauty,36.45,14.69
+144,Beauty-144,Beauty,25.68,10.78
+145,Beauty-145,Beauty,14.620000000000001,6.31
+146,Sports-146,Sports & Outdoors,21.36,14.08
+147,Sports-147,Sports & Outdoors,25.18,14.04
+148,Sports-148,Sports & Outdoors,142.22,88.96
+149,Sports-149,Sports & Outdoors,91.94999999999999,58.76
+150,Sports-150,Sports & Outdoors,114.02,74.17
+151,Sports-151,Sports & Outdoors,247.73000000000002,137.44
+152,Sports-152,Sports & Outdoors,210.67000000000002,116.08
+153,Sports-153,Sports & Outdoors,160.74,105.85
+154,Sports-154,Sports & Outdoors,133.53,73.98
+155,Sports-155,Sports & Outdoors,45.57,25.57
+156,Sports-156,Sports & Outdoors,91.1,55.48
+157,Sports-157,Sports & Outdoors,25.189999999999998,14.95
+158,Sports-158,Sports & Outdoors,127.07,80.06
+159,Sports-159,Sports & Outdoors,126.42999999999999,71.16
+160,Sports-160,Sports & Outdoors,114.11999999999999,74.15
+161,Sports-161,Sports & Outdoors,52.42,29.67
+162,Sports-162,Sports & Outdoors,43.46,27.48
+163,Sports-163,Sports & Outdoors,48.85,26.78
+164,Sports-164,Sports & Outdoors,16.47,9.83
+165,Sports-165,Sports & Outdoors,161.32000000000002,87.74
+166,Sports-166,Sports & Outdoors,68.97999999999999,39.85
+167,Sports-167,Sports & Outdoors,44.620000000000005,25.77
+168,Sports-168,Sports & Outdoors,70.08999999999999,43.9
+169,Sports-169,Sports & Outdoors,114.22999999999999,67.92
+170,Sports-170,Sports & Outdoors,43.86,23.98
+171,Sports-171,Sports & Outdoors,155.23000000000002,102.37
+172,Sports-172,Sports & Outdoors,199.3,128.88
+173,Sports-173,Sports & Outdoors,44.6,28.99
+174,Sports-174,Sports & Outdoors,22.09,12.58
+175,Sports-175,Sports & Outdoors,127.39,74.82
+176,Toys-176,Toys & Games,16.459999999999997,9.9
+177,Toys-177,Toys & Games,13.15,6.81
+178,Toys-178,Toys & Games,10.74,5.91
+179,Toys-179,Toys & Games,30.209999999999997,16.61
+180,Toys-180,Toys & Games,13.1,7.8
+181,Toys-181,Toys & Games,14.72,7.35
+182,Toys-182,Toys & Games,66.22999999999999,35.08
+183,Toys-183,Toys & Games,28.97,16.25
+184,Toys-184,Toys & Games,14.96,7.51
+185,Toys-185,Toys & Games,43.56,22.7
+186,Toys-186,Toys & Games,17.919999999999998,9.79
+187,Toys-187,Toys & Games,31.819999999999997,18.83
+188,Toys-188,Toys & Games,18.61,10.77
+189,Toys-189,Toys & Games,31.069999999999997,18.21
+190,Toys-190,Toys & Games,39.78,23.02
+191,Toys-191,Toys & Games,32.47,18.6
+192,Toys-192,Toys & Games,23.84,14.03
+193,Toys-193,Toys & Games,56.830000000000005,32.39
+194,Toys-194,Toys & Games,68.14,39.24
+195,Toys-195,Toys & Games,14.82,7.83
+196,Toys-196,Toys & Games,13.48,6.92
+197,Toys-197,Toys & Games,12.81,7.41
+198,Toys-198,Toys & Games,86.03999999999999,44.16
+199,Toys-199,Toys & Games,79.14999999999999,47.18
+200,Toys-200,Toys & Games,16.59,9.3
